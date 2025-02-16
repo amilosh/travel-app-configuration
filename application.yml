@@ -1,2 +1,2 @@
 check:
-  value: from-user-service
+  value: from-config-service
